@@ -6,4 +6,11 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here!
+New Skills
+  * None so far but it will be a good review. I'm looking forward to the canvas element during the game project as that will be new.
+Easy
+  * Everything. I have been a web developer for many years.
+Difficult
+  * The most difficult part so far has just been deciding on my personal setup.
+Problem Solving
+  * I have used web search some to review Markdown syntax and find the strikethrough HTML tag.
